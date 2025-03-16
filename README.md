@@ -10,10 +10,19 @@
 💡 Passionate about **AI/ML, Web Development, and Data-Driven Solutions**.  
 ⚡ Strong experience in **Python, React.js, TensorFlow, and Cloud Technologies**.  
 
-📫 **Reach Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharvashirke18)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Atharva7887)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge)](https://atharvashirke.netlify.app/)  
+## 📫 Reach Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/atharvashirke18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://atharvashirke.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Website-F97316?style=for-the-badge" />
+  </a>
+  <a href="mailto:athshirke2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
