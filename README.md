@@ -19,7 +19,7 @@
 
 ## 🔧 Tech Stack  
 
-**💻 Languages:** Python, JavaScript, C, C++, SQL, Linux, HTML, CSS, JS
+**💻 Languages:** Python, JavaScript, SQL, Linux, HTML, CSS, JS, C, C++ <br>
 **🛠️ Frameworks & Libraries:** React.js, TensorFlow, PyTorch, Django  
 **☁️ Cloud & Tools:** AWS (EC2, S3), Power BI, Git, Docker  
 **🗄️ Databases:** MySQL, MongoDB  
