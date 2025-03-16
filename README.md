@@ -26,6 +26,14 @@
 
 ---
 
+## 🔧 Tech Stack  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76C6C&width=600&lines=%F0%9F%92%BB+Languages%3A+Python%2C+JavaScript%2C+C%2C+C%2B%2B%2C+SQL%2C+Linux;🛠️+Frameworks+%26+Libraries%3A+React.js%2C+TensorFlow%2C+PyTorch%2C+Django;☁️+Cloud+%26+Tools%3A+AWS+(EC2%2C+S3)%2C+Power+BI%2C+Git%2C+Docker;🗄️+Databases%3A+MySQL%2C+MongoDB" alt="Typing SVG" />
+</p>
+
+---
+
 ## 📌 Featured Projects  
 
 ### 🌿 [Plant Cultivation Helper](https://planthelper.netlify.app/)  
