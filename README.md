@@ -75,12 +75,12 @@
 
 ---
 
-## 📈 Contributions  
+## 📈 Contributions & Activity  
 
-<!--START_SECTION:activity-->
+[![Atharva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva7887&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 🚀 Actively contributing to **AI, Web Development, and Open Source**.  
 Check out my repositories! 🔥  
-<!--END_SECTION:activity-->
 
 ---
 
