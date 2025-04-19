@@ -84,4 +84,13 @@ Check out my repositories! 🔥
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 💬 **Let's Connect & Build Something Awesome!**  
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
